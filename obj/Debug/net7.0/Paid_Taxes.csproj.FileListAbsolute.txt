@@ -1,0 +1,15 @@
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\bin\Debug\net7.0\Paid_Taxes.exe
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\bin\Debug\net7.0\Paid_Taxes.deps.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\bin\Debug\net7.0\Paid_Taxes.runtimeconfig.json
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\bin\Debug\net7.0\Paid_Taxes.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\bin\Debug\net7.0\Paid_Taxes.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.csproj.AssemblyReference.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.AssemblyInfoInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.AssemblyInfo.cs
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\refint\Paid_Taxes.dll
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.pdb
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\Paid_Taxes.genruntimeconfig.cache
+C:\Users\juan_\OneDrive\Área de Trabalho\C#\Programas\Paid_Taxes\obj\Debug\net7.0\ref\Paid_Taxes.dll
